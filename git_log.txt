@@ -1,3 +1,15 @@
+commit b3fc396fe79d00abddd80fa83d595eec2d8cb377
+Author: dar-ienn <amadarien23@gmail.com>
+Date:   Fri Jan 30 10:08:43 2026 -0800
+
+    filled in name and hobby
+
+commit 73c29dfc58095dc73affe0b5629e369ad9b2ea3c
+Author: dar-ienn <amadarien23@gmail.com>
+Date:   Fri Jan 30 10:03:52 2026 -0800
+
+    Added git log and repo location
+
 commit b66fad878c5a3ffa9d9a0916105b55d59529ccc3
 Merge: 46c69db 69d62dc
 Author: dar-ienn <amadarien23@gmail.com>
