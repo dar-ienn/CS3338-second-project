@@ -1,0 +1,42 @@
+commit b66fad878c5a3ffa9d9a0916105b55d59529ccc3
+Merge: 46c69db 69d62dc
+Author: dar-ienn <amadarien23@gmail.com>
+Date:   Fri Jan 30 09:57:30 2026 -0800
+
+    Resolved merge conflict
+
+commit 69d62dcac85fd26fe08c647f482c10d8034dc42e
+Author: dar-ienn <amadarien23@gmail.com>
+Date:   Fri Jan 30 09:52:34 2026 -0800
+
+    Added favorite game
+
+commit 46c69db0b89d05bd33c57f700fc00fa16bec9f24
+Author: dar-ienn <amadarien23@gmail.com>
+Date:   Fri Jan 30 09:50:01 2026 -0800
+
+    Added favorite food
+
+commit 2f0ec8d324170e4f846ed66807023e61997b58d0
+Author: dar-ienn <amadarien23@gmail.com>
+Date:   Fri Jan 30 09:42:08 2026 -0800
+
+    Added README content
+
+commit fc471eec14723da44cafbaff3f7c1407996790bb
+Author: dar-ienn <amadarien23@gmail.com>
+Date:   Fri Jan 30 09:39:10 2026 -0800
+
+    Added README describing the repo
+
+commit c03dc5dfcf6f1641ff788c8b6b47b610a641c372
+Author: dar-ienn <amadarien23@gmail.com>
+Date:   Fri Jan 30 09:26:50 2026 -0800
+
+    Filled in required info
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
